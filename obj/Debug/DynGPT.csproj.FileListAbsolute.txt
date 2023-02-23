@@ -1,0 +1,6 @@
+D:\VS Projects\DynGPT\bin\Debug\DynGPT.dll
+D:\VS Projects\DynGPT\bin\Debug\DynGPT.pdb
+D:\VS Projects\DynGPT\obj\Debug\DynGPT.csproj.AssemblyReference.cache
+D:\VS Projects\DynGPT\obj\Debug\DynGPT.csproj.CoreCompileInputs.cache
+D:\VS Projects\DynGPT\obj\Debug\DynGPT.dll
+D:\VS Projects\DynGPT\obj\Debug\DynGPT.pdb

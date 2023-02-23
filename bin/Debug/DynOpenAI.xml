@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DynOpenAI</name>
+    </assembly>
+    <members>
+        <member name="T:DynGPT.OpenAI">
+            <summary>
+                OpenAI inside Dynamo by iRef3at.
+            </summary>
+        </member>
+        <member name="M:DynGPT.OpenAI.ChatGPT(DynGPT.OpenAIModel,System.String,System.String,System.Double,System.Int32)">
+            <summary>
+                Send natural language questions to any OpenAI model and receive accurate responses.
+            </summary>
+        </member>
+        <member name="M:DynGPT.OpenAI.Help">
+            <summary>
+                Open Documentation file, How to use, About Project and Author.
+            </summary>
+        </member>
+        <member name="T:DynGPT.OpenAIModel">
+            <summary>
+                Define a specific OpenAI language model to be utilized by the Chat node.
+            </summary>
+        </member>
+        <member name="M:DynGPT.OpenAIModel.CodeCushman_001">
+            <summary>
+                Almost as capable as Davinci Codex, but slightly faster. This speed advantage may make it preferable for real-time
+                applications.
+                Max Tokens ≤ 2048
+            </summary>
+        </member>
+        <member name="M:DynGPT.OpenAIModel.CodeDavinci_002">
+            <summary>
+                Most capable Codex model.Particularly good at translating natural language to code.In addition to completing code,
+                also supports inserting completions within code. Max Tokens ≤ 8000
+            </summary>
+        </member>
+        <member name="M:DynGPT.OpenAIModel.TextAda_001">
+            <summary>
+                Capable of very simple tasks, usually the fastest model in the GPT-3 series, and lowest cost. Max Tokens ≤ 2048
+            </summary>
+        </member>
+        <member name="M:DynGPT.OpenAIModel.TextBabbage_001">
+            <summary>
+                Capable of straightforward tasks, very fast, and lower cost. Max Tokens ≤ 2048
+            </summary>
+        </member>
+        <member name="M:DynGPT.OpenAIModel.TextCurie_001">
+            <summary>
+                Very capable, but faster and lower cost than Davinci. Max Tokens ≤ 2048
+            </summary>
+        </member>
+        <member name="M:DynGPT.OpenAIModel.TextDavinci_002">
+            <summary>
+                GPT-2 model. Can do any task the other models can do, second best option, often with higher quality, Also supports
+                inserting completions within text. Max Tokens ≤ 4000
+            </summary>
+        </member>
+        <member name="M:DynGPT.OpenAIModel.TextDavinci_003">
+            <summary>
+                Most capable GPT-3 model. Can do any task the other models can do, often with higher quality, longer output and
+                better instruction-following. Also supports inserting completions within text. Max Tokens ≤ 4000
+            </summary>
+        </member>
+    </members>
+</doc>

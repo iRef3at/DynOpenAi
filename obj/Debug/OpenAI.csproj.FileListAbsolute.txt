@@ -1,0 +1,21 @@
+D:\VS Projects\DynGPT\bin\Debug\DynOpenAI.dll
+D:\VS Projects\DynGPT\bin\Debug\DynOpenAI.pdb
+D:\VS Projects\DynGPT\obj\Debug\OpenAI.csproj.AssemblyReference.cache
+D:\VS Projects\DynGPT\obj\Debug\OpenAI.csproj.CoreCompileInputs.cache
+D:\VS Projects\DynGPT\obj\Debug\DynOpenAI.dll
+D:\VS Projects\DynGPT\obj\Debug\DynOpenAI.pdb
+D:\VS Projects\DynGPT\bin\Debug\DynOpenAI.xml
+C:\Users\m.refat\Desktop\Open AI Project\Dyn\Solution\DynGPT\bin\Debug\DynOpenAI.xml
+C:\Users\m.refat\Desktop\Open AI Project\Dyn\Solution\DynGPT\bin\Debug\DynOpenAI.dll
+C:\Users\m.refat\Desktop\Open AI Project\Dyn\Solution\DynGPT\bin\Debug\DynOpenAI.pdb
+C:\Users\m.refat\Desktop\Open AI Project\Dyn\Solution\DynGPT\obj\Debug\OpenAI.csproj.AssemblyReference.cache
+C:\Users\m.refat\Desktop\Open AI Project\Dyn\Solution\DynGPT\obj\Debug\OpenAI.csproj.CoreCompileInputs.cache
+C:\Users\m.refat\Desktop\Open AI Project\Dyn\Solution\DynGPT\obj\Debug\DynOpenAI.dll
+C:\Users\m.refat\Desktop\Open AI Project\Dyn\Solution\DynGPT\obj\Debug\DynOpenAI.pdb
+E:\Open AI Project V2 Office\Dyn\Solution\DynGPT\bin\Debug\DynOpenAI.xml
+E:\Open AI Project V2 Office\Dyn\Solution\DynGPT\bin\Debug\DynOpenAI.dll
+E:\Open AI Project V2 Office\Dyn\Solution\DynGPT\bin\Debug\DynOpenAI.pdb
+E:\Open AI Project V2 Office\Dyn\Solution\DynGPT\obj\Debug\OpenAI.csproj.AssemblyReference.cache
+E:\Open AI Project V2 Office\Dyn\Solution\DynGPT\obj\Debug\OpenAI.csproj.CoreCompileInputs.cache
+E:\Open AI Project V2 Office\Dyn\Solution\DynGPT\obj\Debug\DynOpenAI.dll
+E:\Open AI Project V2 Office\Dyn\Solution\DynGPT\obj\Debug\DynOpenAI.pdb
